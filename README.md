@@ -1,4 +1,12 @@
+# My link for slide presentation
+https://docs.google.com/presentation/d/1MS5VZ_qvFw2vnZCv2Qh8_7q4wZC1vsHDfhfu1zMLcfU/edit?usp=sharing
+
+# My Loom video presentation
+
+
+
 # RETDIA521_BCL2401_BCL2401-E_Rethabile-Diale_SDF11
+
 This repository contains the code for the landing page of Cache Bank, a financial service tailored for software developers.
 
 Description:
